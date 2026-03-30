@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Subhashri 👋
 
-<!--
-**BitsofSubhashri/bitsofsubhashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring CSE Student | Learning & Building in Tech 🚀
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student
+- 💻 Exploring coding, web development, and software development
+- 🌱 Currently learning DSA, Java, GitHub, and project building
+- 📚 Sharing my learning journey through projects and practice
+- 🎯 Goal: Build strong skills for placements and internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I'm Learning
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- SQL
+
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/subhashri-dangua-322ba524a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
